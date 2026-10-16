@@ -1,1 +1,1 @@
-# Gitflow Lab - Develop Branch
+# Gitflow Lab - Conflict Resolved
